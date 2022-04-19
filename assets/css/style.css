@@ -1,0 +1,9 @@
+body{
+    font-family: 'Noto Serif', serif;
+    color: #222;
+    background-color: rgb(207, 207, 207);
+}
+.parrafos{
+    font-weight: 100;
+    font-size: 1.25rem;
+}
